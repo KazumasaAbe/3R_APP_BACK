@@ -1,7 +1,7 @@
 
 async function test_get(req, res) {
   res.send({
-    message: 'test'
+    message: 'test>test'
   })
   return
 }
